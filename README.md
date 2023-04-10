@@ -12,7 +12,7 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 ## :exclamation: Requirements
 1. Xampp Software
 2. Sublime text/Visual studio code software or any software supporting php, html, css
-3. Java Jdk
+3. Jdk
 
 ## :question: How to start?
 1. Download this code as a zip file.
@@ -33,5 +33,5 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 
 
 ## If you liked the project and found it helpful
-Give a start 😄:star:
+Give a star 😄:star:
 
